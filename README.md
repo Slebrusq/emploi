@@ -433,7 +433,7 @@ stack : Python, MariaDb, Rest, Docker, Linux...
 
 ### [OM Conseil](https://www.om-conseil.fr/)
 Cabinet de conseil engagé
-
+* [Administrateur Systèmes et Réseaux CDI] (https://www.om-conseil.fr/recrutements-offres-demploi-administrateur-ingenieur/)
 * [Administrateur Systèmes et Réseaux, Technicien Systèmes et Réseaux, freelances](https://www.om-conseil.fr/recrutements/devenons-partenaires/)
 
 *offres répertoriées le 15/10/2019*
