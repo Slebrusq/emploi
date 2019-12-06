@@ -455,6 +455,7 @@ stack : Python, MariaDb, Rest, Docker, Linux...
 Cabinet de conseil engagé
 
 * [Administrateur Systèmes et Réseaux, Technicien Systèmes et Réseaux, freelances](https://www.om-conseil.fr/recrutements/devenons-partenaires/)
+* [Administrateur Systèmes et Réseaux, CDI](https://www.om-conseil.fr/recrutements-offres-demploi-administrateur-ingenieur/)
 
 *offres répertoriées le 15/10/2019*
 
